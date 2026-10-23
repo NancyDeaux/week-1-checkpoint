@@ -12,5 +12,6 @@
 | 1 | Made the repo on GitHub with a README | Initial commit | main |
 | 2 | Created my first page | Add first page | main |
 | 3 | Updated index.html | add h2 and paragraph to index | main |
-| 4 | Updated index.html | add a header to index | main |
-| 5 | Updated index.html | added section, h3, paragraph, ul, li, and footer to index | main |
+| 4 | Added an About Me section | Add about me section | main |
+| 5 | Added a list of things I like | Add list of things I like | main |
+| 6 | Added my goals | Add my goals section | main |
