@@ -16,3 +16,5 @@
 | 5 | Added a list of things I like | Add list of things I like | main |
 | 6 | Added my goals | Add my goals section | main |
 | 7 | Added a site link | Add a site I like to use | main |
+| 8 | Added an image to site | Add an abstract image to site | main |
+| 9 | Added live site line to README | Added the live site to the README | main |
